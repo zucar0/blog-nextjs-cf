@@ -1,5 +1,6 @@
 import React from 'react'
 import {Link} from'react-router-dom';
+import { ListadoTrabajos } from './listado';
 
 export const Inicio = () => {
   return (
@@ -16,6 +17,7 @@ export const Inicio = () => {
         </h2>
         <p>Estos son algunos de los trabajos en los que he colaborado</p>
       </section>
+      <ListadoTrabajos limite={2}/>
     </div>
   )
 }

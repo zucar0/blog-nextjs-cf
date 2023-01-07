@@ -236,3 +236,19 @@
 .page .mask{
   width: 100%;
 }
+
+.container-header{
+  display: inline-flex;
+}
+
+.container-header img{
+  border-radius: 100%; 
+  aspect-ratio: 1/1;
+  object-fit: cover;
+  width: 22%;
+}
+
+.home .container-header .main{
+  padding-left: 5%;
+  padding-right: 5%;
+}

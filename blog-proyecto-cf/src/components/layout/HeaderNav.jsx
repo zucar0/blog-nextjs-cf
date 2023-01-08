@@ -20,7 +20,10 @@ export const HeaderNav = () => {
                         <NavLink to="/servicios">Servicios</NavLink>
                     </li>
                     <li>
-                        <NavLink to="/curriculum">Curriculum</NavLink>
+                        <NavLink to="/curriculum">CV</NavLink>
+                    </li>
+                    <li>
+                        <NavLink to="/blog">Blog</NavLink>
                     </li>
                     <li>
                         <NavLink to="/contacto">Contacto</NavLink>

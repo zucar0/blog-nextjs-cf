@@ -5,6 +5,9 @@
   text-align: center;
   width: 100%;
 }
+body{
+  color: rgb(98,97,97);
+}
 
 .logo {
   height: 6em;
@@ -107,6 +110,7 @@
   margin-top: 35px;
   border-top: 2px solid black;
   padding-top: 45px;
+  color: rgb(98,97,97);
 }
 
 .footer span{
@@ -251,4 +255,135 @@
 .home .container-header .main{
   padding-left: 5%;
   padding-right: 5%;
+}
+
+.list-social{
+  list-style:none;
+  display: inline-flex;
+}
+
+.list-social li{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.list-social li a{
+  color: rgb(98,97,97);
+  font-size: 1.25rem;
+}
+
+@media screen and (min-width: 769px) and (max-width:1025px){
+  .item-de-portafolio .mask {
+    height: auto;
+  }
+
+  .item-de-portafolio .mask img{
+    margin-top: 10px;
+  }
+
+  .container-header img{
+    height: 70%;
+    margin-top: 5%;
+  }
+}
+
+@media screen and (max-width:768px){
+  #root{
+    max-width: 100%;
+  }
+
+  .header{
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 2.5rem;
+    height: auto;
+  }
+
+  .logo span{
+    font-size: 55px !important;
+  }
+
+  .logo h3{
+    margin-left: 0px !important;
+  }
+
+  #root .header .logo{
+    display: initial;
+  }
+
+  .header nav ul{
+    display: inline-flex;
+    height: 0px;
+  }
+
+  .header li{
+    font-size: 12px;
+  }
+
+  .container-header{
+    display: block;
+  }
+
+  .item-de-portafolio .mask {
+    height: auto;
+  }
+
+  .item-de-portafolio .mask img{
+    margin-top: 10px;
+  }
+
+  .container-header img{
+    height: 70%;
+    margin-top: 5%;
+  }
+  .home .secondary a{
+    background-color: transparent;
+    border: none;
+  }
+  .home .secondary a:hover{
+    border: none;
+  }
+
+  #root div footer div div section ul{
+    padding: 0px;
+  }
+}
+
+@media screen and (max-width:480px){
+  #root{
+    padding: 0px;
+  }
+  .layout{
+    width: 95%;
+  }
+
+  .header nav ul{
+    margin-left:-5%;
+    max-width: 320px;
+  }
+
+  #root .layout .header .logo{
+    height: 4em;
+  }
+
+  #root .layout .header{
+    margin-bottom: 0px;
+  }
+
+  #root .layout .header nav ul li{
+
+  }
+
+}
+
+@media screen and (max-width:340px){
+  /* #root div.layout .header nav ul li:nth-child(6){
+    display:none;
+  } */
+  #root div.layout .header nav ul li{
+    font-size: 10px;
+  }
+  #root div.layout .header nav ul{
+    margin-left:-15%;
+  }
 }

@@ -272,6 +272,39 @@ body{
   font-size: 1.25rem;
 }
 
+#root div.layout section.content div.page div form div.form-group{
+  margin-bottom: 15px;
+}
+
+#root div.layout section.content div.page div form div.form-group label{
+    display: block;
+    margin-bottom: 5px;
+}
+
+#root div.layout section.content div.page div form div.form-group input[type="text"]{
+  min-width: 20%;
+  border-radius: 5px;
+  padding: 5px;
+  border: 1px solid lightgray;
+}
+
+#root div.layout section.content div.page div form div.form-group textarea{
+  min-width: 20%;
+  border-radius: 5px;
+  padding: 5px;
+  border: 1px solid lightgray;
+}
+
+#root div.layout section.content div.page div form input[type="submit"]{
+  min-width: 20%;
+  border-radius: 5px;
+  padding: 5px;
+  border: 1px solid lightgray;
+  background: gold;
+  color: black;
+  font-weight: bold;
+}
+
 @media screen and (min-width: 769px) and (max-width:1025px){
   .item-de-portafolio .mask {
     height: auto;

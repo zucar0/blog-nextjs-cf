@@ -4,9 +4,9 @@ export const trabajos =[
         'id': 'wolfsellers',
         'nombre': 'Wolf Sellers',
         'url': 'wolfsellers.com',
-        'tecnologias': 'Magento 2, HTML, CSS, Less, Javascript, MySQL',
+        'tecnologias': 'Adobe Commerce(Magento 2), HTML, CSS, Less, Javascript',
         'categorias': 'Desarrollador frontend',
-        'descripcion': 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit lorem eget quam fermentum sollicitudin. Cras suscipit eros at suscipit ullamcorper. Aenean porta in elit id ultrices. Proin commodo eleifend libero vitae mollis. Nunc eu auctor quam. Etiam tempor convallis sem a sodales. Nunc a lorem at magna tincidunt viverra et sed ante. In pretium augue laoreet rhoncus aliquet. Sed tincidunt accumsan leo. Vestibulum facilisis blandit turpis, a tempus lorem rhoncus quis. Vivamus et quam aliquet, malesuada urna eget, lacinia sapien. Curabitur rutrum felis eget aliquam maximus.'
+        'descripcion': 'Colaborador durante más de dos años en temas de soporte a las aplicaciones en áreas del Frontend; solución de tareas en Jira, metodología Scrum, Git, compilación de estilos, creación de páginas(CMS), bloques y widgets dentro del Admin de Magento'
     },
     {
         'id': 'crepsa',
@@ -14,7 +14,7 @@ export const trabajos =[
         'url': 'crepsa.mx',
         'tecnologias': 'React Js',
         'categorias': 'Desarrollo Web',
-        'descripcion': 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit lorem eget quam fermentum sollicitudin. Cras suscipit eros at suscipit ullamcorper. Aenean porta in elit id ultrices. Proin commodo eleifend libero vitae mollis. Nunc eu auctor quam. Etiam tempor convallis sem a sodales. Nunc a lorem at magna tincidunt viverra et sed ante. In pretium augue laoreet rhoncus aliquet. Sed tincidunt accumsan leo. Vestibulum facilisis blandit turpis, a tempus lorem rhoncus quis. Vivamus et quam aliquet, malesuada urna eget, lacinia sapien. Curabitur rutrum felis eget aliquam maximus.'
+        'descripcion': 'Desarrollo del sitio, diseño de la interfaz y soporte al aplicativo.'
     },
 
     {
@@ -23,7 +23,7 @@ export const trabajos =[
         'url': 'fss.mx',
         'tecnologias': 'React Js',
         'categorias': 'Desarrollo Web',
-        'descripcion': 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit lorem eget quam fermentum sollicitudin. Cras suscipit eros at suscipit ullamcorper. Aenean porta in elit id ultrices. Proin commodo eleifend libero vitae mollis. Nunc eu auctor quam. Etiam tempor convallis sem a sodales. Nunc a lorem at magna tincidunt viverra et sed ante. In pretium augue laoreet rhoncus aliquet. Sed tincidunt accumsan leo. Vestibulum facilisis blandit turpis, a tempus lorem rhoncus quis. Vivamus et quam aliquet, malesuada urna eget, lacinia sapien. Curabitur rutrum felis eget aliquam maximus.'
+        'descripcion': 'Desarrollo del sitio, diseño de la interfaz y soporte al aplicativo.'
     },
     {
         'id': 'americademexico',
@@ -31,7 +31,7 @@ export const trabajos =[
         'url': 'americademexico.mx',
         'tecnologias': 'Wordpress',
         'categorias': 'Desarrollo Web',
-        'descripcion': 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit lorem eget quam fermentum sollicitudin. Cras suscipit eros at suscipit ullamcorper. Aenean porta in elit id ultrices. Proin commodo eleifend libero vitae mollis. Nunc eu auctor quam. Etiam tempor convallis sem a sodales. Nunc a lorem at magna tincidunt viverra et sed ante. In pretium augue laoreet rhoncus aliquet. Sed tincidunt accumsan leo. Vestibulum facilisis blandit turpis, a tempus lorem rhoncus quis. Vivamus et quam aliquet, malesuada urna eget, lacinia sapien. Curabitur rutrum felis eget aliquam maximus.'
+        'descripcion': 'Sitio web no oficial sobre la hinchada americanista'
     },
     {
         'id': 'otromexico',
@@ -39,7 +39,7 @@ export const trabajos =[
         'url': 'otromexico.com',
         'tecnologias': 'Wordpress',
         'categorias': 'Desarrollo Web',
-        'descripcion': 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit lorem eget quam fermentum sollicitudin. Cras suscipit eros at suscipit ullamcorper. Aenean porta in elit id ultrices. Proin commodo eleifend libero vitae mollis. Nunc eu auctor quam. Etiam tempor convallis sem a sodales. Nunc a lorem at magna tincidunt viverra et sed ante. In pretium augue laoreet rhoncus aliquet. Sed tincidunt accumsan leo. Vestibulum facilisis blandit turpis, a tempus lorem rhoncus quis. Vivamus et quam aliquet, malesuada urna eget, lacinia sapien. Curabitur rutrum felis eget aliquam maximus.'
+        'descripcion': 'Inicié como auxiliar de edición, transcribí audios, muté hacia Community Manager y me especialicé en Wordpress, con la configuración de temas y plugins.'
     },
     {
         'id': 'tecandplay',
@@ -47,7 +47,7 @@ export const trabajos =[
         'url': 'tecplay.mx',
         'tecnologias': 'HTML, CSS, JavaScript',
         'categorias': 'Desarrollo Web',
-        'descripcion': 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit lorem eget quam fermentum sollicitudin. Cras suscipit eros at suscipit ullamcorper. Aenean porta in elit id ultrices. Proin commodo eleifend libero vitae mollis. Nunc eu auctor quam. Etiam tempor convallis sem a sodales. Nunc a lorem at magna tincidunt viverra et sed ante. In pretium augue laoreet rhoncus aliquet. Sed tincidunt accumsan leo. Vestibulum facilisis blandit turpis, a tempus lorem rhoncus quis. Vivamus et quam aliquet, malesuada urna eget, lacinia sapien. Curabitur rutrum felis eget aliquam maximus.'
+        'descripcion': 'Sitio web del centro de cómputo en donde laboré desde 2006 hasta 2008. En este lugar realicé trabajoscomo gestión y administración del cibercafé, recarga de cartuchos de tinta y toner, soporte técnico a los equipos de cómputo, conversión de videos de Beta y VHS a DVD'
     },
     {
         'id': 'globalogistics',
@@ -55,7 +55,7 @@ export const trabajos =[
         'url': 'globalogistics.mx',
         'tecnologias': 'HTML, CSS, JavaScript, Bootstrap',
         'categorias': 'Desarrollo Web',
-        'descripcion': 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit lorem eget quam fermentum sollicitudin. Cras suscipit eros at suscipit ullamcorper. Aenean porta in elit id ultrices. Proin commodo eleifend libero vitae mollis. Nunc eu auctor quam. Etiam tempor convallis sem a sodales. Nunc a lorem at magna tincidunt viverra et sed ante. In pretium augue laoreet rhoncus aliquet. Sed tincidunt accumsan leo. Vestibulum facilisis blandit turpis, a tempus lorem rhoncus quis. Vivamus et quam aliquet, malesuada urna eget, lacinia sapien. Curabitur rutrum felis eget aliquam maximus.'
+        'descripcion': 'Mi primer experiencia en áreas de Tecnologías de la Información. Soporte técnico, implementaciones parasolucionar problemas de conexión entre las distintas naves logísticas de la empresa. Atención directa a los requerimientos de la dirección.'
     },
     {
         'id': 'estacionamiento',
@@ -63,6 +63,6 @@ export const trabajos =[
         'url': 'youtube.com',
         'tecnologias': 'Java, MySQL',
         'categorias': 'Aplicaciones',
-        'descripcion': 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit lorem eget quam fermentum sollicitudin. Cras suscipit eros at suscipit ullamcorper. Aenean porta in elit id ultrices. Proin commodo eleifend libero vitae mollis. Nunc eu auctor quam. Etiam tempor convallis sem a sodales. Nunc a lorem at magna tincidunt viverra et sed ante. In pretium augue laoreet rhoncus aliquet. Sed tincidunt accumsan leo. Vestibulum facilisis blandit turpis, a tempus lorem rhoncus quis. Vivamus et quam aliquet, malesuada urna eget, lacinia sapien. Curabitur rutrum felis eget aliquam maximus.'
+        'descripcion': 'Proyecto que simula la funconalidad de un estacionamiento a través de JavaSwing implementando una aplicación de escritorio con conexión a MySQL. Entre las características que se desarrollaron fueron los cálculos y registros de ingreso y salida de los automóviles; cálculo del precio a pagaren tiempo real'
     },
 ]

@@ -1,9 +1,9 @@
 import React from 'react'
-
+import { Form } from './form'
 export const Contacto = () => {
   return (
     <div className='page'>
-      <h1 className='heading'>
+      {/* <h1 className='heading'>
         Contacto
       </h1>
       <form className='contact' action='mailto:antonio.josimar.enriquez.alvarado@gmail.com'>
@@ -12,7 +12,8 @@ export const Contacto = () => {
         <input type="text" placeholder='Email'/>
         <textarea name="" id="" cols="30" rows="10" placeholder='Motivo de contacto'></textarea>
         <input type="submit" placeholder='Enviar'/>
-      </form>
+      </form> */}
+      <Form />
     </div>
   )
 }
